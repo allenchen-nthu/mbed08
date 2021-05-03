@@ -29,6 +29,8 @@ struct Config {
         "          *       \n\r"
         "          *       \n\r"
         "          *       \n\r",
+        "LINE:\n\r"
+        " * * * * * * * * \n\r",
         "SLOPE:\n\r"
         "        *        \n\r"
         "       *         \n\r"
@@ -38,8 +40,6 @@ struct Config {
         "   *             \n\r"
         "  *              \n\r"
         " * * * * * * * * \n\r",
-        "LINE:\n\r"
-        " * * * * * * * * \n\r"
         };
 };
 
